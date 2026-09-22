@@ -52,7 +52,7 @@ printf("no error detected");
 }
  ```
 # OUTPUT:
-<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/f575e2a1-9926-41f0-85f3-9ec950a16c58" />
+<img width="1599" height="1034" alt="647643729-f575e2a1-9926-41f0-85f3-9ec950a16c58" src="https://github.com/user-attachments/assets/c0e04135-1cab-4b5f-93d9-f2d656d87d8b" />
 
 
 # RESULT:
